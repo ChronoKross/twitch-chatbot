@@ -1,0 +1,22 @@
+{
+  "name": "twitch-chatbot",
+  "version": "0.0.0",
+  "description": "basic chat-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChronoKross/twitch-chatbot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "ImChronoKross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChronoKross/twitch-chatbot/issues"
+  },
+  "homepage": "https://github.com/ChronoKross/twitch-chatbot#readme"
+}
