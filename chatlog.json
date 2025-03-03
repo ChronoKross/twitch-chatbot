@@ -356,3 +356,44 @@
 {"timestamp":"2025-03-03T10:06:00.952Z","user":"imchronokross","message":"Current viewers: 1"}
 {"timestamp":"2025-03-03T10:06:01.017Z","user":"imchronokross","message":"Stream has been live for 4h 36m."}
 {"timestamp":"2025-03-03T10:06:01.083Z","user":"imchronokross","message":"Error retrieving follower count."}
+{"timestamp":"2025-03-03T10:10:04.471Z","user":"imchronokross","message":"!viewers"}
+{"timestamp":"2025-03-03T10:10:04.796Z","user":"imchronokross","message":"Current viewers: 1"}
+{"timestamp":"2025-03-03T10:19:57.554Z","user":"imchronokross","message":"!commands"}
+{"timestamp":"2025-03-03T10:19:58.070Z","user":"imchronokross","message":"Current viewers: 1"}
+{"timestamp":"2025-03-03T10:19:58.127Z","user":"imchronokross","message":"Stream has been live for 4h 49m."}
+{"timestamp":"2025-03-03T10:19:58.232Z","user":"imchronokross","message":"Error retrieving follower count."}
+{"timestamp":"2025-03-03T10:21:27.535Z","user":"imchronokross","message":"!change2hidescreen"}
+{"timestamp":"2025-03-03T10:21:27.673Z","user":"imchronokross","message":"🔄 Switching to Hide Scene..."}
+{"timestamp":"2025-03-03T10:21:27.683Z","user":"imchronokross","message":"🔄 Switching to Hide Scene..."}
+{"timestamp":"2025-03-03T10:22:14.414Z","user":"imchronokross","message":"!commands"}
+{"timestamp":"2025-03-03T10:22:14.881Z","user":"imchronokross","message":"No active viewers."}
+{"timestamp":"2025-03-03T10:22:14.939Z","user":"imchronokross","message":"The stream is currently offline."}
+{"timestamp":"2025-03-03T10:22:14.993Z","user":"imchronokross","message":"Error retrieving follower count."}
+{"timestamp":"2025-03-03T10:25:10.496Z","user":"imchronokross","message":"!commands"}
+{"timestamp":"2025-03-03T10:25:11.137Z","user":"imchronokross","message":"The stream is currently offline."}
+{"timestamp":"2025-03-03T10:25:11.181Z","user":"imchronokross","message":"No active viewers."}
+{"timestamp":"2025-03-03T10:25:11.271Z","user":"imchronokross","message":"Error retrieving follower count."}
+{"timestamp":"2025-03-03T10:29:17.433Z","user":"imchronokross","message":"!commands"}
+{"timestamp":"2025-03-03T10:29:17.436Z","user":"imchronokross","message":"!commands"}
+{"timestamp":"2025-03-03T10:29:17.594Z","user":"imchronokross","message":"Commands available:"}
+{"timestamp":"2025-03-03T10:29:17.614Z","user":"imchronokross","message":"Commands available: !viewers - Show current viewers !uptime - Show stream uptime !followers - Show follower count !hello - Greet the bot !wrud - See what the bot is doing !shoutout - Give a shoutout → !shoutout [user] !dice - Roll a dice !startpoll - Start a poll → !startpoll [question] !commands - Show all available commands"}
+{"timestamp":"2025-03-03T10:29:17.660Z","user":"imchronokross","message":"!viewers - Show current viewers"}
+{"timestamp":"2025-03-03T10:29:17.745Z","user":"imchronokross","message":"!uptime - Show stream uptime"}
+{"timestamp":"2025-03-03T10:29:17.785Z","user":"imchronokross","message":"!followers - Show follower count"}
+{"timestamp":"2025-03-03T10:29:17.893Z","user":"imchronokross","message":"!hello - Greet the bot"}
+{"timestamp":"2025-03-03T10:29:17.916Z","user":"imchronokross","message":"!wrud - See what the bot is doing"}
+{"timestamp":"2025-03-03T10:29:17.968Z","user":"imchronokross","message":"!shoutout - Give a shoutout → !shoutout [user]"}
+{"timestamp":"2025-03-03T10:29:18.034Z","user":"imchronokross","message":"!dice - Roll a dice"}
+{"timestamp":"2025-03-03T10:29:18.058Z","user":"imchronokross","message":"Hello, imchronokross!"}
+{"timestamp":"2025-03-03T10:29:18.098Z","user":"imchronokross","message":"!startpoll - Start a poll → !startpoll [question]"}
+{"timestamp":"2025-03-03T10:29:18.123Z","user":"imchronokross","message":"ImChronoKross is learning Linux/NeoVim & Docker."}
+{"timestamp":"2025-03-03T10:29:18.149Z","user":"imchronokross","message":"!commands - Show all available commands"}
+{"timestamp":"2025-03-03T10:29:18.174Z","user":"imchronokross","message":"No active viewers."}
+{"timestamp":"2025-03-03T10:29:18.240Z","user":"imchronokross","message":"Shoutout to -! Go check them out!"}
+{"timestamp":"2025-03-03T10:29:18.317Z","user":"imchronokross","message":"The stream is currently offline."}
+{"timestamp":"2025-03-03T10:29:18.416Z","user":"imchronokross","message":"imchronokross rolled a 6! 🎲"}
+{"timestamp":"2025-03-03T10:29:18.469Z","user":"imchronokross","message":"Error retrieving follower count."}
+{"timestamp":"2025-03-03T10:29:18.524Z","user":"imchronokross","message":"📊 Poll started: \"- start a poll → !startpoll [question]\" Type '0' for NO or '1' for YES. You have 30 seconds!"}
+{"timestamp":"2025-03-03T10:29:18.589Z","user":"imchronokross","message":"Commands available: !viewers - Show current viewers !uptime - Show stream uptime !followers - Show follower count !hello - Greet the bot !wrud - See what the bot is doing !shoutout - Give a shoutout → !shoutout [user] !dice - Roll a dice !startpoll - Start a poll → !startpoll [question] !commands - Show all available commands"}
+{"timestamp":"2025-03-03T10:29:46.872Z","user":"imchronokross","message":"!commands"}
+{"timestamp":"2025-03-03T10:33:42.073Z","user":"imchronokross","message":"!commands"}
